@@ -11,7 +11,7 @@ I know a couple languages, but my favorites are C++ and C#
 
 ## My IDE of choice
 
-I use Code OSS
+I use Neovim
 
 ## My OS of choice
 
