@@ -25,4 +25,4 @@ I use Arch Linux with KDE
 ## Goals
 - [ ] Make a game
 - [ ] Build a large scale project with my friends
-- [ ] Make a website
+- [x] Make a website
