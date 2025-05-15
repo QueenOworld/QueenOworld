@@ -20,7 +20,7 @@ I use Arch Linux with KDE
 ## Socials
 
 - [Fedi](https://lea.pet/@lexi)
-- [Matrix](https://matrix.to/#/@lexi:sadlyihaveto.top)
+- [Matrix](https://matrix.to/#/@lexi:syn.sadlyihaveto.top)
 
 ## Goals
 - [ ] Make a game
